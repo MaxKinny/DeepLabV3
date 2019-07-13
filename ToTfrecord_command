@@ -1,3 +1,0 @@
-python /home/linux-maxgundam/Desktop/[kaggle]pneumothorax/tensorflow_DeepLabV3+/models-master/research/deeplab/datasets/build_voc2012_data.py --image_folder=/home/linux-maxgundam/Desktop/[kaggle]pneumothorax/tensorflow_DeepLabV3+/Data/Database/JPEGImages --semantic_segmentation_folder=/home/linux-maxgundam/Desktop/[kaggle]pneumothorax/tensorflow_DeepLabV3+/Data/Database/SegmentationClass --list_folder=/home/linux-maxgundam/Desktop/[kaggle]pneumothorax/tensorflow_DeepLabV3+/Data/Database/ImageSets/Segmentation --output_dir=/home/linux-maxgundam/Desktop/[kaggle]pneumothorax/tensorflow_DeepLabV3+/Data/tfrecord
-
-
