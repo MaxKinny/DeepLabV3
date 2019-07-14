@@ -1,8 +1,12 @@
 
-Documents/
-
-Data/
+Data/Database/JPEGImages
 
 models-master/
 
 weights/
+
+checkpoint/
+
+Data/Database/SegmentationClass
+
+Data/tfrecord
